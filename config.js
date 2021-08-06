@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Dont forget that our Family loves you so much ! ',
     messDesc: 'Wish you happy day by day ٩(｡•́‿•̀｡)۶ ',
     btnAccept: 'I agree w you all (⌒‿⌒) ',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http:www.instagram.com/tunvlalala/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
